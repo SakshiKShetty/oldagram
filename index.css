@@ -1,0 +1,93 @@
+html, body {
+    margin: 0;
+    padding: 0;width: 375px;
+}
+
+.container1{
+    display: flex;
+    justify-content: space-between;
+   margin-bottom: 35px;
+    border-bottom: 1px solid grey;
+}
+.img1,.img2{
+    width: 70px;
+     margin:15px 10px;
+     
+}
+.img1{
+     width: 127px;
+     height: 33.02px;
+}
+.img2,.pro1{
+    border-radius: 100%;
+    width: 34px;
+    height: 34px;
+}
+.pro1{
+
+    margin:0px  10px;
+}
+p{
+    margin: 0;
+ }
+ .sp1{
+    font-weight: bold;
+ }
+.container2{
+    display: flex;
+}
+.para2{
+    margin-top: 2px;
+    font-size: 13px;
+    font-weight: 400;
+}
+.post1{
+    margin-top: 10px;
+    width:375px;
+    height: 375px;
+  margin-left: 0px;
+}
+.container3{
+    
+    display: flex;
+}
+.tags{
+    width:30px;
+    margin: 10px;
+}
+.para3{
+    margin-left: 10px;
+    font-weight: 600;
+}
+.cont3{
+    
+      display: flex;
+    margin-top: 12px;
+    margin-bottom:30px;
+ }
+ .cont4{
+       margin-top: 12px;
+    margin-bottom:30px;
+  
+ }
+ 
+.para4{
+    margin-right: 6px;
+    margin-left: 10px;
+    font-weight: 600;
+}
+.tx1{
+    display: inline;
+   
+}
+.para5{
+
+    margin-right: 6px;
+    margin-left: 10px;
+ display: inline;
+     font-weight: 600;
+    
+}
+.tags:hover{
+  opacity: 0.2;
+}
